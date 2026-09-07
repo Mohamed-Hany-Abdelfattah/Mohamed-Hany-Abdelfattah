@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Mohamed Hany 👋</h1><h3 align="center">Data Analyst | Cloud Computing | AWS | SQL • Power BI</h3>
+﻿<h1 align="center">Hi there, I'm Mohamed Hany 👋</h1><h3 align="center">Data Analyst | Cloud Computing | AWS | SQL • Power BI</h3>
 <p align="center"><i>Transforming Data into Actionable Insights</i></p>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hany-abdelfattah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmdhanybdalftah045@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
-  <a href="https://github.com/Mohamedhany-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
+  <a href="https://github.com/Mohamed-Hany-Abdelfattah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
 </p>
 
 
@@ -83,7 +83,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
 
 ## 📊 Featured Projects
 
-### 1. [AWS Cloud Computing Project](https://github.com/Mohamedhany-star/aws-cloud-computing-project)
+### 1. [AWS Cloud Computing Project](https://github.com/Mohamed-Hany-Abdelfattah/aws-cloud-computing-project)
 > **Tools:** AWS (IAM · VPC · EC2 · S3 · RDS · ALB · Auto Scaling) · CloudFormation · Bash
 
 A hands-on, production-style cloud deployment: a highly available & scalable web application built on AWS.
@@ -93,7 +93,7 @@ A hands-on, production-style cloud deployment: a highly available & scalable web
 - **Bonus:** local Python simulation that reproduces the same AWS architecture on your machine.
 
 ---
-### 2. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
+### 2. [E-Commerce Sales Analytics](https://github.com/Mohamed-Hany-Abdelfattah/E-Commerce-Sales-Analytics)
 > **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
 
 
@@ -105,7 +105,7 @@ A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Eg
 
 
 ---
-### 3. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
+### 3. [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
 > **Tool:** Microsoft SQL Server | **Type:** Team Project
 
 
@@ -120,7 +120,7 @@ An enterprise-grade relational database built from scratch to manage contestant 
 
 
 
-### 4. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star/Retail-Sales-Performance-Dashboard)
+### 4. [Retail Sales Performance Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Retail-Sales-Performance-Dashboard)
 > **Tool:** Microsoft Excel (Advanced Formulas, Dynamic Summaries, Live KPIs)
 
 
@@ -153,8 +153,8 @@ A comprehensive Excel dashboard designed to analyze and monitor retail sales ope
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedhany-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hany-Abdelfattah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hany-Abdelfattah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 
