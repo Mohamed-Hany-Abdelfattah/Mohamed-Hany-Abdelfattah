@@ -22,15 +22,9 @@
   <a href="mailto:mhmdhanybdalftah045@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://Mohamedhany-star.github.io/portfolio/" target="_blank" rel="noreferrer">
+  <a href="https://mohamed-hany-abdelfattah.github.io/portfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%2300C4CC.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=followers&style=for-the-badge&logo=github&label=Followers&color=6e40c9" alt="Followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=1f6feb" alt="Public Repos">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=public_gists&style=for-the-badge&logo=github&label=Gists&color=8957e5" alt="Gists">
 </p>
 
 ---
