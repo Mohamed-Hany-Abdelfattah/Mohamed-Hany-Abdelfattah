@@ -75,6 +75,13 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 ## 📌 Featured Projects
 
+### 🏆 [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
+> **Microsoft SQL Server** · Team Project
+
+Enterprise-grade relational database (15 normalized tables, full ERD) managing submissions, voting integrity, and real-time score analytics with advanced T-SQL.
+
+---
+
 ### 🛍️ [E-Commerce Sales Analytics](https://github.com/Mohamed-Hany-Abdelfattah/E-Commerce-Sales-Analytics)
 > **Microsoft Excel** · SUMIFS · INDEX/MATCH · Conditional Formatting
 
@@ -90,12 +97,7 @@ Formula-driven dashboard for **2025 retail sales across Egypt**: 180+ transactio
 
 Production-style, highly-available & scalable web application on AWS — a 9-phase hands-on guide plus a CloudFormation template that rebuilds the entire architecture with one command.
 
-### 🏆 [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
-> **Microsoft SQL Server** · Team Project
 
-Enterprise-grade relational database (15 normalized tables, full ERD) managing submissions, voting integrity, and real-time score analytics with advanced T-SQL.
-
----
 
 ## 📜 Certifications
 
