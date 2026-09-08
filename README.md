@@ -139,7 +139,7 @@ A hands-on, production-style cloud deployment: a highly available & scalable web
 
 - 🎓 **Digital Egypt Pioneers Initiative (DEPI)** — Data Analytics Track — *MCIT*
 - ☁️ **AWS Academy Cloud Foundations**
-- 📊 **Cisco Data Analytics Basics**
+- 📊 **Cisco Networking Basics**
 - 🗄️ **Implementing and Developing SQL Server Objects** — *Mahara-Tech / ITI*
 - 🤖 **Oracle AI for You**
 
