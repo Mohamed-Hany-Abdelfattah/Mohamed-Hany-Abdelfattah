@@ -97,7 +97,7 @@ Formula-driven dashboard for **2025 retail sales across Egypt**: 180+ transactio
 
 Production-style, highly-available & scalable web application on AWS — a 9-phase hands-on guide plus a CloudFormation template that rebuilds the entire architecture with one command.
 
-
+---
 
 ## 📜 Certifications
 
