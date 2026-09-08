@@ -6,11 +6,18 @@
 
 *"Transforming raw data into actionable insights & building scalable cloud solutions."*
 
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Hany-Abdelfattah.Mohamed-Hany-Abdelfattah" alt="Profile Views">
+</p>
+
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hany-abdelfattah" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mohamed-Hany-Abdelfattah" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:mhmdhanybdalftah045@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -18,9 +25,12 @@
   <a href="https://Mohamedhany-star.github.io/portfolio/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%2300C4CC.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/Mohamed-Hany-Abdelfattah" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=followers&style=for-the-badge&logo=github&label=Followers&color=6e40c9" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=1f6feb" alt="Public Repos">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohamed-Hany-Abdelfattah&query=public_gists&style=for-the-badge&logo=github&label=Gists&color=8957e5" alt="Gists">
 </p>
 
 ---
@@ -32,6 +42,7 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 - 🔭 **Currently:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)** — building real-world expertise in **SQL**, **Excel**, **Power BI**, and **Python**.
 - ☁️ **Focus Areas:** Data Cleaning · Visualization · Performance Dashboards · AWS Infrastructure · Data Engineering.
 - 📚 **Certified:** AWS Academy Cloud Foundations — progressing from *Data Analytics* → *Data Engineering*.
+- 🌱 **Learning:** Advanced SQL, Python for Data Analysis, and AWS for Data Engineering.
 - 📍 **Location:** Menoufia, Egypt.
 
 ---
@@ -58,7 +69,17 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 ---
 
-## 📊 Featured Projects
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hany-Abdelfattah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%">
+
+</div>
+
+---
+
+## 📌 Featured Projects
 
 ### 🛍️ [E-Commerce Sales Analytics](https://github.com/Mohamed-Hany-Abdelfattah/E-Commerce-Sales-Analytics)
 > **Microsoft Excel** · SUMIFS · INDEX/MATCH · Conditional Formatting
@@ -94,21 +115,8 @@ Enterprise-grade relational database (15 normalized tables, full ERD) managing s
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hany-Abdelfattah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hany-Abdelfattah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hany-Abdelfattah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%">
-
-</div>
-
----
-
-<div align="center">
-  
 **⚡ Transforming data into actionable decisions.**
 </br>
 <i>Feel free to explore my repositories or connect on LinkedIn!</i>
