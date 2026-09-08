@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Hany
 
-### Data Analyst · Cloud Computing · AWS Enthusiast
+### Data Analyst · Cloud Computing 
 
 *"Transforming raw data into actionable insights & building scalable cloud solutions."*
 
