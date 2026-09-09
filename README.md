@@ -35,7 +35,7 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 - 🔭 **Currently:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)** — building real-world expertise in **SQL**, **Excel**, **Power BI**, and **Python**.
 - ☁️ **Focus Areas:** Data Cleaning · Visualization · Performance Dashboards · AWS Infrastructure · Data Engineering.
-- 📚 **Certified:** AWS Academy Cloud Foundations, AWS Educate Cloud & Storage badges — progressing from *Data Analytics* → *Data Engineering*.
+- 📚 **Certified:** AWS Academy Cloud Foundations, AWS Educate Cloud, Storage & Generative AI badges — progressing from *Data Analytics* → *Data Engineering*.
 - 🌱 **Learning:** Advanced SQL, Python for Data Analysis, and AWS for Data Engineering.
 - 📍 **Location:** Menoufia, Egypt.
 
@@ -107,6 +107,7 @@ Production-style, highly-available & scalable web application on AWS — a 9-pha
 | ☁️ AWS Academy Cloud Foundations | AWS Academy |
 | ☁️ AWS Educate — Introduction to Cloud 101 | AWS Educate |
 | ☁️ AWS Educate — Getting Started with Storage | AWS Educate |
+| 🤖 AWS Educate — Introduction to Generative AI | AWS Educate |
 | 📊 Cisco Data Analytics Basics | Cisco |
 | 🗄️ Implementing and Developing SQL Server Objects | Mahara-Tech / ITI |
 | 🤖 Oracle AI for You | Oracle |
