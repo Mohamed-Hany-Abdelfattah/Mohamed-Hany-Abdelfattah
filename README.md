@@ -103,14 +103,14 @@ Production-style, highly-available & scalable web application on AWS — a 9-pha
 
 | Certification | Issuer |
 |---------------|--------|
-| 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 | ☁️ AWS Academy Cloud Foundations | AWS Academy |
-| ☁️ AWS Educate — Introduction to Cloud 101 | AWS Educate |
-| ☁️ AWS Educate — Getting Started with Storage | AWS Educate |
 | 🤖 AWS Educate — Introduction to Generative AI | AWS Educate |
+| ☁️ AWS Educate — Getting Started with Storage | AWS Educate |
+| ☁️ AWS Educate — Introduction to Cloud 101 | AWS Educate |
 | 📊 Cisco Data Analytics Basics | Cisco |
 | 🗄️ Implementing and Developing SQL Server Objects | Mahara-Tech / ITI |
 | 🤖 Oracle AI for You | Oracle |
+| 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 
 ---
 
