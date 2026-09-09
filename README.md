@@ -103,11 +103,13 @@ Production-style, highly-available & scalable web application on AWS — a 9-pha
 
 | Certification | Issuer |
 |---------------|--------|
-| 🗄️ Implementing and Developing SQL Server Objects | Mahara-Tech / ITI |
-| ☁️ AWS Academy Cloud Foundations | AWS Academy |
-| 🤖 AWS Educate — Introduction to Generative AI | AWS Educate |
-| ☁️ AWS Educate — Getting Started with Storage | AWS Educate |
-| 📊 Cisco Networking Basics | Cisco |
+| 🗄️ [Implementing and Developing SQL Server Objects](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?code=YpilucUai3) | Mahara-Tech / ITI |
+| ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/ca221c21-5acd-48e1-8d85-abfe03274d16/public_url) | AWS Academy |
+| 🤖 [AWS Educate — Introduction to Generative AI](https://www.credly.com/badges/30a75f01-e494-46b5-ba56-58d1b75e90d6/public_url) | AWS Educate |
+| ☁️ [AWS Educate — Getting Started with Storage](https://www.credly.com/badges/5e132e6e-57af-4b50-af6f-afaa0a11fc3b/public_url) | AWS Educate |
+| 📊 [Cisco Networking Basics](https://www.credly.com/badges/7e3a2861-cdd2-4e46-93ca-914c028de33a/public_url) | Cisco |
+| 🤖 Oracle AI for You | Oracle |
+| 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 | 🤖 Oracle AI for You | Oracle |
 | 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 
