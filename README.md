@@ -107,7 +107,7 @@ Production-style, highly-available & scalable web application on AWS — a 9-pha
 | ☁️ AWS Academy Cloud Foundations | AWS Academy |
 | 🤖 AWS Educate — Introduction to Generative AI | AWS Educate |
 | ☁️ AWS Educate — Getting Started with Storage | AWS Educate |
-| 📊 Cisco Data Analytics Basics | Cisco |
+| 📊 Cisco Networking Basics | Cisco |
 | 🤖 Oracle AI for You | Oracle |
 | 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 
