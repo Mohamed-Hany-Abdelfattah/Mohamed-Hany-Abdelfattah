@@ -110,7 +110,6 @@ Production-style, highly-available & scalable web application on AWS — a 9-pha
 | 📊 [Cisco Networking Basics](https://www.credly.com/badges/7e3a2861-cdd2-4e46-93ca-914c028de33a/public_url) | Cisco |
 | 🤖 Oracle AI for You | Oracle |
 | 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
-| 🤖 Oracle AI for You | Oracle |
 | 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
 
 ---
