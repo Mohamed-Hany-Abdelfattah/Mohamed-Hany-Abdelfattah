@@ -34,6 +34,7 @@
 Computer Science student with a B.Sc. in **Physics & Computer Science** from the Faculty of Science, Menoufia University, specializing in **Data Analytics** with a strong supporting background in **Cloud Computing**.
 
 - 🔭 **Currently:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)** — building real-world expertise in **SQL**, **Excel**, **Power BI**, and **Python**.
+- 💼 **Open to:** Entry-level **Data Analyst** & **Cloud Computing** roles.
 - ☁️ **Focus Areas:** Data Cleaning · Visualization · Performance Dashboards · AWS Infrastructure · Data Engineering.
 - 📚 **Certified:** AWS Academy Cloud Foundations, AWS Educate Cloud, Storage & Generative AI badges — progressing from *Data Analytics* → *Data Engineering*.
 - 🌱 **Learning:** Advanced SQL, Python for Data Analysis, and AWS for Data Engineering.
