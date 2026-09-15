@@ -93,6 +93,11 @@ A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Eg
 
 Formula-driven dashboard for **2025 retail sales across Egypt**: 180+ transactions, **~7.67M EGP** revenue, **zero formula errors**. Region, category, and salesperson insights update live.
 
+### 📊 [Interactive Excel Sales Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Sales-Dashboard-Excel)
+> **Microsoft Excel** · No VBA · SUMPRODUCT · Live Filters · EGP/USD Conversion
+
+Fully interactive Excel sales dashboard: **7 dropdown filters**, 6 KPI cards, and 4 live charts — with real-time **EGP/USD currency conversion** applied consistently across cards *and* charts, plus a protected hidden calc engine. **100% native formulas, zero macros.**
+
 ### ☁️ [AWS Cloud Computing Project](https://github.com/Mohamed-Hany-Abdelfattah/aws-cloud-computing-project)
 > **AWS** · IAM · VPC · EC2 · S3 · RDS · ALB · Auto Scaling · CloudFormation
 
