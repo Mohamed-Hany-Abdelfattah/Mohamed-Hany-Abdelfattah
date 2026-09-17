@@ -81,12 +81,6 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 Fully interactive 3-sheet Excel dashboard analyzing **720 transactions (2022–2025)**: **8 live filters**, **12 KPI cards**, **7 charts**, and a 17-section formula engine with YoY growth, rankings, and projections. 100% native formulas — **zero macros**.
 
-### 📊 [Interactive Excel Sales Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Sales-Dashboard-Excel)
-> **Microsoft Excel** · No VBA · SUMPRODUCT · Live Filters · EGP/USD Conversion
-
-Fully interactive Excel sales dashboard: **7 dropdown filters**, **6 KPI cards**, and **4 live charts** — with real-time **EGP/USD currency conversion** applied consistently across cards *and* charts so numbers never mismatch. 100% native formulas, **zero macros**, protected hidden calc engine, and a print-ready layout.
-
-
 ### 🏆 [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
 > **Microsoft SQL Server** · Team Project
 
