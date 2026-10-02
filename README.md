@@ -76,7 +76,7 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 ## 📌 Featured Projects
 
-### 🏬 [Superstore Sales Analysis Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-Sales-Analysis)
+### 🏬 [Superstore Management Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-Management-Dashboard)
 > **Microsoft Excel** · Slicers · PivotTables · No VBA · 4 Years of Data
 
 Full **Data Cleaning → Analysis → Dashboard** pipeline over **9,993 line items (2016–2019)**: a deduplicated clean sheet with **5 engineered columns**, **7 pivot analyses**, a **Filter Panel with Slicers**, **5 KPI cards**, and **5 charts**. Surfaces that Furniture earns a **2.49% margin** and the `Tables` sub-category is **loss-making**.
