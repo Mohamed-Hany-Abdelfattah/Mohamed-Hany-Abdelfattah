@@ -76,6 +76,11 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 ## 📌 Featured Projects
 
+### 📊 [Superstore Power BI Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-PowerBI-Dashboard)
+> **Microsoft Power BI** · Power Query · 16 DAX Measures · Row-Level Security
+
+End-to-end **Business Intelligence solution** over **9,994 retail transactions (2016–2019)**: **Power Query** ETL, a **star schema** with a dedicated date dimension, **16 DAX measures** (YoY growth, running totals, loss-making %), **3 interactive report pages** with **9 slicers** and **drill-through**, and **5 Row-Level Security roles** for region-based access. Surfaces **+20.4% YoY sales growth** — while **Furniture runs at just ~2% margin**.
+
 ### 🏬 [Superstore Management Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-Management-Dashboard)
 > **Microsoft Excel** · Slicers · PivotTables · No VBA · 4 Years of Data
 
