@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Mohamed Hany
+# ?? Hi, I'm Mohamed Hany
 
-### Data Analyst · Cloud Computing 
+### Data Analyst � Cloud Computing 
 
 *"Transforming raw data into actionable insights & building scalable cloud solutions."*
 
@@ -29,20 +29,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## ????? About Me
 
 Computer Science student with a B.Sc. in **Physics & Computer Science** from the Faculty of Science, Menoufia University, specializing in **Data Analytics** with a strong supporting background in **Cloud Computing**.
 
-- 🔭 **Currently:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)** — building real-world expertise in **SQL**, **Excel**, **Power BI**, and **Python**.
-- 💼 **Open to:** Entry-level **Data Analyst** & **Cloud Computing** roles.
-- ☁️ **Focus Areas:** Data Cleaning · Visualization · Performance Dashboards · AWS Infrastructure · Data Engineering.
-- 📚 **Certified:** AWS Academy Cloud Foundations, AWS Educate Cloud, Storage & Generative AI badges — progressing from *Data Analytics* → *Data Engineering*.
-- 🌱 **Learning:** Advanced SQL, Python for Data Analysis, and AWS for Data Engineering.
-- 📍 **Location:** Menoufia, Egypt.
+- ?? **Currently:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)** - building real-world expertise in **SQL**, **Excel**, **Power BI**, and **Python**.
+- ?? **Open to:** Entry-level **Data Analyst** & **Cloud Computing** roles.
+- ?? **Focus Areas:** Data Cleaning � Visualization � Performance Dashboards � AWS Infrastructure � Data Engineering.
+- ?? **Certified:** AWS Academy Cloud Foundations, AWS Educate Cloud, Storage & Generative AI badges - progressing from *Data Analytics*  *Data Engineering*.
+- ?? **Learning:** Advanced SQL, Python for Data Analysis, and AWS for Data Engineering.
+- ?? **Location:** Menoufia, Egypt.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ??? Tech Stack & Skills
 
 <div align="center">
 
@@ -60,11 +60,11 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 </div>
 
-**Core Competencies:** `Data Cleaning` · `Data Transformation` · `EDA` · `Data Visualization` · `Performance Dashboards` · `Data Modeling (ERD)` · `Advanced SQL (CTEs, Window Functions)` · `Cloud Architecture (VPC/EC2/S3/RDS/ALB/ASG)`.
+**Core Competencies:** `Data Cleaning` � `Data Transformation` � `EDA` � `Data Visualization` � `Performance Dashboards` � `Data Modeling (ERD)` � `Advanced SQL (CTEs, Window Functions)` � `Cloud Architecture (VPC/EC2/S3/RDS/ALB/ASG)`.
 
 ---
 
-## 📊 GitHub Stats
+## ?? GitHub Stats
 
 <div align="center">
 
@@ -74,65 +74,69 @@ Computer Science student with a B.Sc. in **Physics & Computer Science** from the
 
 ---
 
-## 📌 Featured Projects
+## ?? Featured Projects
 
-### 📊 [Superstore Power BI Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-PowerBI-Dashboard)
-> **Microsoft Power BI** · Power Query · 16 DAX Measures · Row-Level Security
+### ?? [Superstore Power BI Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-PowerBI-Dashboard)
+> **Microsoft Power BI** � Power Query � 16 DAX Measures � Row-Level Security
 
-End-to-end **Business Intelligence solution** over **9,994 retail transactions (2016–2019)**: **Power Query** ETL, a **star schema** with a dedicated date dimension, **16 DAX measures** (YoY growth, running totals, loss-making %), **3 interactive report pages** with **9 slicers** and **drill-through**, and **5 Row-Level Security roles** for region-based access. Surfaces **+20.4% YoY sales growth** — while **Furniture runs at just ~2% margin**.
+End-to-end **Business Intelligence solution** over **9,994 retail transactions (2016-2019)**: **Power Query** ETL, a **star schema** with a dedicated date dimension, **16 DAX measures** (YoY growth, running totals, loss-making %), **3 interactive report pages** with **9 slicers** and **drill-through**, and **5 Row-Level Security roles** for region-based access. Surfaces **+20.4% YoY sales growth** - while **Furniture runs at just ~2% margin**.
 
-### 🏬 [Superstore Management Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-Management-Dashboard)
-> **Microsoft Excel** · Slicers · PivotTables · No VBA · 4 Years of Data
+### ?? [Superstore Management Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Superstore-Management-Dashboard)
+> **Microsoft Excel** � Slicers � PivotTables � No VBA � 4 Years of Data
 
-Full **Data Cleaning → Analysis → Dashboard** pipeline over **9,993 line items (2016–2019)**: a deduplicated clean sheet with **5 engineered columns**, **7 pivot analyses**, a **Filter Panel with Slicers**, **5 KPI cards**, and **5 charts**. Surfaces that Furniture earns a **2.49% margin** and the `Tables` sub-category is **loss-making**.
+Full **Data Cleaning  Analysis  Dashboard** pipeline over **9,993 line items (2016-2019)**: a deduplicated clean sheet with **5 engineered columns**, **7 pivot analyses**, a **Filter Panel with Slicers**, **5 KPI cards**, and **5 charts**. Surfaces that Furniture earns a **2.49% margin** and the `Tables` sub-category is **loss-making**.
 
-### 📊 [Sales Analytics Dashboard 2022–2025](https://github.com/Mohamed-Hany-Abdelfattah/SALES-ANALYTICS-DASHBOARD)
-> **Microsoft Excel** · No VBA · 8 Filters · YoY Engine · EGP/USD Toggle
+### ?? [Sales Analytics Dashboard 2022-2025](https://github.com/Mohamed-Hany-Abdelfattah/SALES-ANALYTICS-DASHBOARD)
+> **Microsoft Excel** � No VBA � 8 Filters � YoY Engine � EGP/USD Toggle
 
-Fully interactive 3-sheet Excel dashboard analyzing **720 transactions (2022–2025)**: **8 live filters**, **12 KPI cards**, **7 charts**, and a 17-section formula engine with YoY growth, rankings, and projections. 100% native formulas — **zero macros**.
+Fully interactive 3-sheet Excel dashboard analyzing **720 transactions (2022-2025)**: **8 live filters**, **12 KPI cards**, **7 charts**, and a 17-section formula engine with YoY growth, rankings, and projections. 100% native formulas - **zero macros**.
 
-### 🏆 [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
-> **Microsoft SQL Server** · Team Project
+### ?? [Online Competition & Voting Platform Database](https://github.com/Mohamed-Hany-Abdelfattah/Competition-Voting-Platform-DB)
+> **Microsoft SQL Server** � Team Project
 
 Enterprise-grade relational database (15 normalized tables, full ERD) managing submissions, voting integrity, and real-time score analytics with advanced T-SQL.
 
 ---
 
-### 🛍️ [E-Commerce Sales Analytics](https://github.com/Mohamed-Hany-Abdelfattah/E-Commerce-Sales-Analytics)
-> **Microsoft Excel** · SUMIFS · INDEX/MATCH · Conditional Formatting
+### ??? [E-Commerce Sales Analytics](https://github.com/Mohamed-Hany-Abdelfattah/E-Commerce-Sales-Analytics)
+> **Microsoft Excel** � SUMIFS � INDEX/MATCH � Conditional Formatting
 
-A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store: **400 simulated orders**, 6 KPI cards, and 4 interactive charts — built entirely with native formulas, no macros.
+A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store: **400 simulated orders**, 6 KPI cards, and 4 interactive charts - built entirely with native formulas, no macros.
 
-### 📈 [Retail Sales Performance Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Retail-Sales-Performance-Dashboard)
-> **Microsoft Excel** · Live KPIs · Dynamic Summaries
+### ?? [Retail Sales Performance Dashboard](https://github.com/Mohamed-Hany-Abdelfattah/Retail-Sales-Performance-Dashboard)
+> **Microsoft Excel** � Live KPIs � Dynamic Summaries
 
 Formula-driven dashboard for **2025 retail sales across Egypt**: 180+ transactions, **~7.67M EGP** revenue, **zero formula errors**. Region, category, and salesperson insights update live.
 
+### ?? [Country Data Comparison - Tableau](https://github.com/Mohamed-Hany-Abdelfattah/Country-Data-Comparison-Tableau)
+> **Tableau Public** � Dashboard � Story � 10 Worksheets � 3 Actions
 
-### ☁️ [AWS Cloud Computing Project](https://github.com/Mohamed-Hany-Abdelfattah/aws-cloud-computing-project)
-> **AWS** · IAM · VPC · EC2 · S3 · RDS · ALB · Auto Scaling · CloudFormation
+Interactive **Tableau** mini-project on global health/economic indicators for **263 countries** (mid-2000s snapshot, no time dimension): **10 worksheets**, an overview dashboard with **3 actions**, and a **6-point story**. Includes map, treemap, scatter with trend line + log scale, heatmap, income-group bars, HIV outlier analysis, and country comparison. Key finding: infant mortality has the strongest link to life expectancy (**r = -0.89**), while income alone doesn't explain outliers like Botswana/Eswatini.
 
-Production-style, highly-available & scalable web application on AWS — a 9-phase hands-on guide plus a CloudFormation template that rebuilds the entire architecture with one command.
+### ?? [AWS Cloud Computing Project](https://github.com/Mohamed-Hany-Abdelfattah/aws-cloud-computing-project)
+> **AWS** � IAM � VPC � EC2 � S3 � RDS � ALB � Auto Scaling � CloudFormation
+
+Production-style, highly-available & scalable web application on AWS - a 9-phase hands-on guide plus a CloudFormation template that rebuilds the entire architecture with one command.
 
 ---
 
-## 📜 Certifications
+## ?? Certifications
 
 | Certification | Issuer |
 |---------------|--------|
-| 🗄️ [Implementing and Developing SQL Server Objects](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?code=YpilucUai3) | Mahara-Tech / ITI |
-| ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/ca221c21-5acd-48e1-8d85-abfe03274d16/public_url) | AWS Academy |
-| 🤖 [AWS Educate — Introduction to Generative AI](https://www.credly.com/badges/30a75f01-e494-46b5-ba56-58d1b75e90d6/public_url) | AWS Educate |
-| ☁️ [AWS Educate — Getting Started with Storage](https://www.credly.com/badges/5e132e6e-57af-4b50-af6f-afaa0a11fc3b/public_url) | AWS Educate |
-| 📊 [Cisco Networking Basics](https://www.credly.com/badges/7e3a2861-cdd2-4e46-93ca-914c028de33a/public_url) | Cisco |
-| 🤖 Oracle AI for You | Oracle |
-| 🎓 Digital Egypt Pioneers Initiative (DEPI) — Data Analytics | MCIT |
+| ??? [Implementing and Developing SQL Server Objects](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?code=YpilucUai3) | Mahara-Tech / ITI |
+| ?? [AWS Academy Cloud Foundations](https://www.credly.com/badges/ca221c21-5acd-48e1-8d85-abfe03274d16/public_url) | AWS Academy |
+| ?? [AWS Educate - Introduction to Generative AI](https://www.credly.com/badges/30a75f01-e494-46b5-ba56-58d1b75e90d6/public_url) | AWS Educate |
+| ?? [AWS Educate - Getting Started with Storage](https://www.credly.com/badges/5e132e6e-57af-4b50-af6f-afaa0a11fc3b/public_url) | AWS Educate |
+| ?? [Cisco Networking Basics](https://www.credly.com/badges/7e3a2861-cdd2-4e46-93ca-914c028de33a/public_url) | Cisco |
+| ?? Oracle AI for You | Oracle |
+| ?? Digital Egypt Pioneers Initiative (DEPI) - Data Analytics | MCIT |
 
 ---
 
 <div align="center">
 
-**⚡ Transforming data into actionable decisions.**
+**? Transforming data into actionable decisions.**
 </br>
 <i>Feel free to explore my repositories or connect on LinkedIn!</i>
 
